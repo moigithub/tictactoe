@@ -1,0 +1,33 @@
+.tictactoe div {
+  width: 100px;
+  height:100px;
+  border: 1px solid #456;
+  text-align: center;
+  box-sizing: content-box;
+  margin-left: 3px;
+  float:left;
+  font-size: 6em;
+  line-height: 100px;
+}
+
+.tictactoe{
+  width: 315px;
+  height: 315px;
+}
+
+
+.choicexo {
+  background-color: #784;
+  margin: 0 auto;
+  width: 300px;
+  padding: 10px 30px 10px 30px;
+  font-size: 2em;
+  position:absolute;
+  display:none;
+  opacity: 0.98;
+}
+.choicexo button {
+  padding: 10px 20px;
+  margin: 0 36px;
+  font-size: 1.3em;
+}
